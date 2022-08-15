@@ -1,0 +1,1 @@
+[14-Apr-2021 16:29:40 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/ra995adnlzp6/public_html/brots/dashboard/stripe2/db.php on line 2

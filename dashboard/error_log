@@ -1,0 +1,8 @@
+[15-Apr-2021 16:00:53 UTC] PHP Notice:  Undefined variable: username in /home/ra995adnlzp6/public_html/brots/dashboard/topnav.php on line 200
+[15-Apr-2021 16:00:53 UTC] PHP Notice:  Undefined variable: type in /home/ra995adnlzp6/public_html/brots/dashboard/transactions.php on line 38
+[15-Apr-2021 16:00:53 UTC] PHP Notice:  Undefined variable: username in /home/ra995adnlzp6/public_html/brots/dashboard/transactions.php on line 67
+[15-Apr-2021 16:00:53 UTC] PHP Notice:  Undefined variable: username in /home/ra995adnlzp6/public_html/brots/dashboard/transactions.php on line 133
+[15-Apr-2021 18:27:13 UTC] PHP Notice:  Undefined variable: username in /home/ra995adnlzp6/public_html/brots/dashboard/topnav.php on line 200
+[15-Apr-2021 18:27:13 UTC] PHP Notice:  Undefined variable: type in /home/ra995adnlzp6/public_html/brots/dashboard/transactions.php on line 38
+[15-Apr-2021 18:27:13 UTC] PHP Notice:  Undefined variable: username in /home/ra995adnlzp6/public_html/brots/dashboard/transactions.php on line 67
+[15-Apr-2021 18:27:13 UTC] PHP Notice:  Undefined variable: username in /home/ra995adnlzp6/public_html/brots/dashboard/transactions.php on line 133

@@ -1,0 +1,2 @@
+[11-Apr-2021 07:52:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/ra995adnlzp6/public_html/brots/admin_login_class.php on line 11
+[11-Apr-2021 07:52:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/ra995adnlzp6/public_html/brots/admin_login_class.php on line 13
